@@ -1,6 +1,6 @@
 # Projeto de Notícia sobre Consumo de Energia
 
-Este projeto apresenta uma notícia sobre os principais itens que mais consomem energia e dicas de como economizar, inspirado no estilo das notícias do **G1**. A página foi desenvolvida utilizando **HTML** e **CSS básico**, com foco em trazer informações úteis de forma clara e objetiva.
+Este projeto apresenta uma notícia sobre os principais itens que mais consomem energia e dicas de como economizar, inspirado no estilo das notícias do **TechTudo**. A página foi desenvolvida utilizando **HTML** e **CSS básico**, com foco em trazer informações úteis de forma clara e objetiva.
 
 A notícia aborda:
 - Quais aparelhos e dispositivos são os maiores consumidores de energia em residências.
